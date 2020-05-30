@@ -26,8 +26,15 @@
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Tuotteet <span class="sr-only">(current)</span></a>
+      <li class="nav-item active dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Tuotteet</a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="/korvausilmalaitteet">Korvausilmalaitteet</a>
+          <a class="dropdown-item" href="#">Lämmönsiirtopuhallin</a>
+          <a class="dropdown-item" href="#">48 V DC Puhaltimet</a>
+          <a class="dropdown-item" href="/suodattimet">Suodattimet</a>
+          <a class="dropdown-item" href="/lisavarusteet">Lisävarusteet</a>
+        </div>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Ratkaisut</a>
@@ -51,7 +58,7 @@
   </div>
 </nav>
   <div class="container">
-  <div class="row my-5">
+  <div class="row py-md-5 my-5">
     <div class="col-md mb-4">
       <h1>Lämmittävät korvausilmalaitteet</h1>
       <p class="lead font-weight-normal">Mobair korvausilmalaitteiden ansiosta puhdas sisäilma voidaan saavuttaa niin yksityisasunnoissa kuin julkisissa tiloissa—ilman investointeja kalliisiin ja suurikokoisiin laitteisiin. Korvausilmalaitteella raitis ilma saadaan ohjattua sisälle aina vedottomasti, ilman ulkoilman siitepölyjä, katupölyä tai saasteita.</p>
@@ -63,7 +70,7 @@
 </div>
 
 <div class="container">
-  <div class="row mb-5">
+  <div class="row py-md-5 mb-5">
     <div class="col-md text-center mb-3">
       <svg class="bi bi-gear mb-1" width="2em" height="2em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" d="M8.837 1.626c-.246-.835-1.428-.835-1.674 0l-.094.319A1.873 1.873 0 0 1 4.377 3.06l-.292-.16c-.764-.415-1.6.42-1.184 1.185l.159.292a1.873 1.873 0 0 1-1.115 2.692l-.319.094c-.835.246-.835 1.428 0 1.674l.319.094a1.873 1.873 0 0 1 1.115 2.693l-.16.291c-.415.764.42 1.6 1.185 1.184l.292-.159a1.873 1.873 0 0 1 2.692 1.116l.094.318c.246.835 1.428.835 1.674 0l.094-.319a1.873 1.873 0 0 1 2.693-1.115l.291.16c.764.415 1.6-.42 1.184-1.185l-.159-.291a1.873 1.873 0 0 1 1.116-2.693l.318-.094c.835-.246.835-1.428 0-1.674l-.319-.094a1.873 1.873 0 0 1-1.115-2.692l.16-.292c.415-.764-.42-1.6-1.185-1.184l-.291.159A1.873 1.873 0 0 1 8.93 1.945l-.094-.319zm-2.633-.283c.527-1.79 3.065-1.79 3.592 0l.094.319a.873.873 0 0 0 1.255.52l.292-.16c1.64-.892 3.434.901 2.54 2.541l-.159.292a.873.873 0 0 0 .52 1.255l.319.094c1.79.527 1.79 3.065 0 3.592l-.319.094a.873.873 0 0 0-.52 1.255l.16.292c.893 1.64-.902 3.434-2.541 2.54l-.292-.159a.873.873 0 0 0-1.255.52l-.094.319c-.527 1.79-3.065 1.79-3.592 0l-.094-.319a.873.873 0 0 0-1.255-.52l-.292.16c-1.64.893-3.433-.902-2.54-2.541l.159-.292a.873.873 0 0 0-.52-1.255l-.319-.094c-1.79-.527-1.79-3.065 0-3.592l.319-.094a.873.873 0 0 0 .52-1.255l-.16-.292c-.892-1.64.902-3.433 2.541-2.54l.292.159a.873.873 0 0 0 1.255-.52l.094-.319z"/>
@@ -91,7 +98,10 @@
   </div>
 </div>
 
-<div class="jumbotron jumbotron-fluid bg-primary text-light">
+
+<div class="jumbotron-fluid text-light my-5" style="background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+">
   <div class="container text-center py-5">
     <h2>Huonekohtainen tuloilmaratkaisu</h2>
     <p class="lead">Mobair korvausilmalaitteella ratkaiset huonekohtaiset ilmanvaihto-ongelmat nopeasti, helposti ja edullisesti. Huonekohtainen ilmanvaihto poikkeaa keskusilmanvaihdosta siten, että jokaisessa ilmastoitavassa huoneessa on erillinen laite mitä voidaan käyttää ja tehoa säätää huonekohtaisesti. Mitään kanavistoa ei tarvita.</p>
@@ -109,7 +119,7 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-6 py-3">
+    <div class="col-md-6 py-3">
       <div class="card">
         <div class="card-body">
           <h5 class="card-title"><a href="#" class="card-link">Korvausilmalaitteet <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right mb-1"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></a></h5>
@@ -117,7 +127,7 @@
         </div>
       </div>
     </div>
-    <div class="col-sm-6 py-3">
+    <div class="col-md-6 py-3">
       <div class="card">
         <div class="card-body">
           <h5 class="card-title"><a href="#" class="card-link">Lämmönsiirto <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right mb-1"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></a></h5>
@@ -127,7 +137,7 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-sm-6 py-3">
+    <div class="col-md-6 py-3">
       <div class="card">
         <div class="card-body">
           <h5 class="card-title"><a href="#" class="card-link">48 V DC Puhaltimet <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right mb-1"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></a></h5>
@@ -135,7 +145,7 @@
         </div>
       </div>
     </div>
-    <div class="col-sm-6 py-3">
+    <div class="col-md-6 py-3">
       <div class="card">
         <div class="card-body">
           <h5 class="card-title"><a href="#" class="card-link">Suodattimet <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right mb-1"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></a></h5>
@@ -145,7 +155,7 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-sm-6 py-3">
+    <div class="col-md-6 py-3">
       <div class="card">
         <div class="card-body">
           <h5 class="card-title"><a href="#" class="card-link">Lisävarusteet <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right mb-1"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></a></h5>
