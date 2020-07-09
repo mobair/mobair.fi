@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi"><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://mobair.fi/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mobair.fi/" rel="alternate" type="text/html" hreflang="fi" /><updated>2020-07-08T18:01:43+03:00</updated><id>https://mobair.fi/feed.xml</id><title type="html">Mobair</title><subtitle>Ratkaise huonekohtaiset ilmanvaihto-ongelmat korvausilmalaitteilla  nopeasti, helposti ja edullisesti.</subtitle><entry><title type="html">Valitse raikas ja hyvä sisäilma</title><link href="https://mobair.fi/hyva-sisailma/" rel="alternate" type="text/html" title="Valitse raikas ja hyvä sisäilma" /><published>2020-01-08T06:00:00+02:00</published><updated>2020-01-08T06:00:00+02:00</updated><id>https://mobair.fi/raikas-ja-hyva-sisailma</id><content type="html" xml:base="https://mobair.fi/hyva-sisailma/">&lt;h3 class=&quot;mt-4&quot;&gt;Mitä hyvä sisäilma on?&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi"><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://mobair.fi/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mobair.fi/" rel="alternate" type="text/html" hreflang="fi" /><updated>2020-07-09T14:07:01+03:00</updated><id>https://mobair.fi/feed.xml</id><title type="html">Mobair</title><subtitle>Ratkaise huonekohtaiset ilmanvaihto-ongelmat korvausilmalaitteilla  nopeasti, helposti ja edullisesti.</subtitle><entry><title type="html">Valitse raikas ja hyvä sisäilma</title><link href="https://mobair.fi/hyva-sisailma/" rel="alternate" type="text/html" title="Valitse raikas ja hyvä sisäilma" /><published>2020-01-08T06:00:00+02:00</published><updated>2020-01-08T06:00:00+02:00</updated><id>https://mobair.fi/raikas-ja-hyva-sisailma</id><content type="html" xml:base="https://mobair.fi/hyva-sisailma/">&lt;h3 class=&quot;mt-4&quot;&gt;Mitä hyvä sisäilma on?&lt;/h3&gt;
 
 &lt;p&gt;Puhdas sisäilma – pölytön, hajuton, vedoton ja meluton – eli hyvä sisäilma on monen eri asian summa. Toimiva ilmanvaihto on kuitenkin hyvän sisäilman perusta. Vanhoissa taloissa ilmanvaihto toimii usein puutteellisesti. Korvausilmalaite auttaa korjaamaan tämän puutteen niissä tiloissa, joissa raikasta ilmaa tarvitaan lisää. Sisäilman laatu vaikuttaa tiloissa oleskelevien ihmisten oloon ja virkeyteen. Mitä puhtaampaa tämä ilma on, sitä paremmin elimistö voi.&lt;/p&gt;
 
@@ -25,7 +25,11 @@
 &lt;p&gt;&lt;em&gt;Lähteet: Sisäilmayhdistys ry, Allergia- ja astmaliitto ja Hengitysliitto&lt;/em&gt;&lt;/p&gt;
 
 &lt;div class=&quot;card mt-5&quot; style=&quot;max-width: 30rem;&quot;&gt;
-  &lt;img src=&quot;/assets/images/annie-spratt-294447-unsplash-800x533.jpg&quot; class=&quot;card-img-top&quot; alt=&quot;...&quot; /&gt;
+  &lt;picture&gt;
+        &lt;source type=&quot;image/webp&quot; srcset=&quot;/assets/images/annie-spratt-294447-unsplash-800x533.webp&quot; /&gt;
+        &lt;source type=&quot;image/jpeg&quot; srcset=&quot;/assets/images/annie-spratt-294447-unsplash-800x533.jpg&quot; /&gt;
+        &lt;img src=&quot;/assets/images/annie-spratt-294447-unsplash-800x533.jpg&quot; class=&quot;card-img-top&quot; alt=&quot;...&quot; /&gt;
+  &lt;/picture&gt;
   &lt;div class=&quot;card-body&quot;&gt;
     &lt;h5 class=&quot;card-title&quot;&gt;Asunnon ilmanvaihdon parantaminen&lt;/h5&gt;
     &lt;p class=&quot;card-text&quot;&gt;&lt;small class=&quot;text-muted&quot;&gt;Dec 6, 2019&lt;/small&gt;&lt;/p&gt;
@@ -53,7 +57,11 @@
 &lt;p&gt;Kun on koneellinen ilmanvaihto, kannattaa ilmanvaihdon eli poistoimurin tehoon kiinnittää erityistä huomiota. Koneellista ilmanvaihtoa ei tarvitse pitää isommalla teholla kuin pesuhuoneen, kodinhoitohuoneen ja keittiön käytön yhteydessä. Normaalioloissa riittää asukasmäärän mukaan säädetty ilmanvaihtomäärä, mikä on yleensä n. 30% koneellisen ilmanvaihdon maksimitehosta. Talvella ylimääräinen ilmanvaihto kuivattaa huoneilmaa ja kuluttaa turhaa energiaa.&lt;/p&gt;
 
 &lt;div class=&quot;card mt-5&quot; style=&quot;max-width: 30rem;&quot;&gt;
-  &lt;img src=&quot;/assets/images/drops-of-water-nature-nature-wallpaper-8633_800x533.jpg&quot; class=&quot;card-img-top&quot; alt=&quot;...&quot; /&gt;
+  &lt;picture&gt;
+        &lt;source type=&quot;image/webp&quot; srcset=&quot;/assets/images/drops-of-water-nature-nature-wallpaper-8633_800x533.webp&quot; /&gt;
+        &lt;source type=&quot;image/jpeg&quot; srcset=&quot;/assets/images/drops-of-water-nature-nature-wallpaper-8633_800x533.jpg&quot; /&gt;
+        &lt;img src=&quot;/assets/images/drops-of-water-nature-nature-wallpaper-8633_800x533.jpg&quot; class=&quot;card-img-top&quot; alt=&quot;...&quot; /&gt;
+  &lt;/picture&gt;
   &lt;div class=&quot;card-body&quot;&gt;
     &lt;h5 class=&quot;card-title&quot;&gt;Valitse raikas ja hyvä sisäilma&lt;/h5&gt;
     &lt;p class=&quot;card-text&quot;&gt;&lt;small class=&quot;text-muted&quot;&gt;Jan 8, 2020&lt;/small&gt;&lt;/p&gt;
