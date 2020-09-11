@@ -1,71 +1,437 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi"><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://mobair.fi/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mobair.fi/" rel="alternate" type="text/html" hreflang="fi" /><updated>2020-08-25T13:25:57+03:00</updated><id>https://mobair.fi/feed.xml</id><title type="html">Mobair</title><subtitle>Ratkaise huonekohtaiset ilmanvaihto-ongelmat korvausilmalaitteilla  nopeasti, helposti ja edullisesti.</subtitle><entry><title type="html">Valitse raikas ja hyvä sisäilma</title><link href="https://mobair.fi/hyva-sisailma/" rel="alternate" type="text/html" title="Valitse raikas ja hyvä sisäilma" /><published>2020-01-08T06:00:00+02:00</published><updated>2020-01-08T06:00:00+02:00</updated><id>https://mobair.fi/raikas-ja-hyva-sisailma</id><content type="html" xml:base="https://mobair.fi/hyva-sisailma/">&lt;h3 class=&quot;mt-4&quot;&gt;Mitä hyvä sisäilma on?&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi"><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://mobair.fi/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mobair.fi/" rel="alternate" type="text/html" hreflang="fi" /><updated>2020-09-11T14:30:50+03:00</updated><id>https://mobair.fi/feed.xml</id><title type="html">MOBAIR</title><subtitle>Ratkaise huonekohtaiset ilmanvaihto-ongelmat korvausilmalaitteilla  nopeasti, helposti ja edullisesti.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://mobair.fi/jekyll/update/2020/08/26/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-08-26T10:14:20+03:00</published><updated>2020-08-26T10:14:20+03:00</updated><id>https://mobair.fi/jekyll/update/2020/08/26/welcome-to-jekyll</id><content type="html" xml:base="https://mobair.fi/jekyll/update/2020/08/26/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-&lt;p&gt;Puhdas sisäilma – pölytön, hajuton, vedoton ja meluton – eli hyvä sisäilma on monen eri asian summa. Toimiva ilmanvaihto on kuitenkin hyvän sisäilman perusta. Vanhoissa taloissa ilmanvaihto toimii usein puutteellisesti. Korvausilmalaite auttaa korjaamaan tämän puutteen niissä tiloissa, joissa raikasta ilmaa tarvitaan lisää. Sisäilman laatu vaikuttaa tiloissa oleskelevien ihmisten oloon ja virkeyteen. Mitä puhtaampaa tämä ilma on, sitä paremmin elimistö voi.&lt;/p&gt;
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
-&lt;h3 class=&quot;mt-4&quot;&gt;Onko huoneessa sopivan lämmintä?&lt;/h3&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Sopiva sisäilman lämpötila riippuu tilan käyttötarkoituksesta. Liian korkea lämpötila (yli 24 °C) tuntuu kuivalta ja tunkkaiselta, kun taas liian alhainen lämpötila (alle 20 °C) tuntuu vetona. Makuuhuoneessa vilpoisempi lämpötila auttaa kuitenkin nukkumisessa, ja toimistoissa sopiva lämpötila ja hapen määrä auttavat hyvän työvireen ylläpitämisessä. Erilaisten tilojen ilmanvaihtotarpeissa auttaa huonekohtainen korvausilmalaite: se auttaa huoneiden erilaisten käyttötarpeiden mukaisen ilmantarpeen säätelemisessä.&lt;/p&gt;
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;h3 class=&quot;mt-4&quot;&gt;Onko huoneessa hyvä hengittää ja tuoksuuko siellä hyvälle?&lt;/h3&gt;
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;p&gt;Tilaan astuttaessa sen ilman tulee tuntua raikkaalta. Sisäilma, jossa on liian paljon hiilidioksidia (yli 1200 ppm), aistitaan tunkkaisena ja epämiellyttävänä hengittää. Huoneen tarpeeseen valittu korvausilmalaite syöttää huoneeseen vedottomasti raikasta happipitoista ilmaa, ja hiilidioksidipitoisuudet pysyvät kurissa.&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h3 class=&quot;mt-4&quot;&gt;Ilmanvaihtoa ilman kallista ilmanvaihtojärjestelmän remonttia&lt;/h3&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Valitse raikas ja hyvä sisäilma</title><link href="https://mobair.fi/hyva-sisailma/" rel="alternate" type="text/html" title="Valitse raikas ja hyvä sisäilma" /><published>2020-01-08T06:00:00+02:00</published><updated>2020-01-08T06:00:00+02:00</updated><id>https://mobair.fi/raikas-ja-hyva-sisailma</id><content type="html" xml:base="https://mobair.fi/hyva-sisailma/">&lt;!-- IMAGE
+    ================================================== --&gt;
+    &lt;section data-jarallax data-speed=&quot;.8&quot; class=&quot;py-12 py-md-15 bg-cover jarallax&quot; style=&quot;background-image: url(/assets/img/photos/drops-of-water-nature-nature-wallpaper-8633_800x533.jpg);&quot;&gt;&lt;/section&gt;
 
-&lt;p&gt;Ilmanvaihdon tehostaminen korvausilmalaitteella on järkevää, sillä silloin ei ole tarvetta mittavalle ja kalliille ilmanvaihtojärjestelmän remontille. Korvausilmalaitteet voit asentaa itse niihin huoneisiin, joiden ilmanvaihtoa haluat parantaa, ja myös tyylitellä pienikokoisen korvausilmalaitteen ilmeeltään tilaan sopivaksi.&lt;/p&gt;
+    &lt;!-- HEADER
+    ================================================== --&gt;
+    &lt;section class=&quot;pt-8 pt-md-11&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row justify-content-center&quot;&gt;
+          &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
 
-&lt;h3 class=&quot;mt-4&quot;&gt;Huono sisäilma on erittäin haitallista ihmisten terveydelle&lt;/h3&gt;
+            &lt;!-- Heading --&gt;
+            &lt;h1 class=&quot;display-4 text-center&quot;&gt;
+              Valitse raikas ja hyvä sisäilma
+            &lt;/h1&gt;
 
-&lt;p&gt;Mikäli hometta tai jotain muuta terveydelle vaarallista ainetta todetaan, tulee ensisijaisesti selvittää päästölähde ja poistaa se. Tämän lisäksi kun ilmanvaihto laitetaan kuntoon, voidaan asua turvallisin mielin.&lt;/p&gt;
+            &lt;!-- Text --&gt;
+            &lt;p class=&quot;lead mb-7 text-center text-muted&quot;&gt;
+              Toimiva ilmanvaihto on hyvän sisäilman perusta. Vanhoissa taloissa ilmanvaihto toimii usein puutteellisesti, korvausilmalaite auttaa korjaamaan tämän puutteen tiloissa joissa raikasta ilmaa tarvitaan lisää.
+            &lt;/p&gt;
 
-&lt;p&gt;Asunnoissa yleisimmin makuuhuoneessa on huono sisäilma. Kahden hengen makuuhuoneessa hiilidioksidipitoisuus nousee helposti arvoon 1600 bec kun suositus on 800 bec. Huonosta sisäilmasta pääsee helpolla eroon asentamalla kaikkiin käytössä oleviin huoneisiin Mobair-korvausilmalaitteet. Mikäli makuuhuoneen ovi pidätetään kiinni, tulee oven alareunassa olla reilu ovirako.&lt;/p&gt;
+            &lt;!-- Meta --&gt;
+            &lt;div class=&quot;row align-items-center py-5 border-top border-bottom&quot;&gt;
+              &lt;div class=&quot;col-auto&quot;&gt;
 
-&lt;p&gt;Huonoa sisäilmaa on turha kärsiä, sillä korjauskustannukset ovat hyvin pienet. Huonon sisäilman tunnistaa hajusta ja esim. ikkunoiden huurtumisesta.&lt;/p&gt;
+                &lt;!-- Avatar --&gt;
+                &lt;div class=&quot;avatar avatar-lg&quot;&gt;
+                  &lt;img src=&quot;/assets/img/avatars/mobair-avatar.png&quot; alt=&quot;...&quot; class=&quot;avatar-img rounded-circle&quot;&gt;
+                &lt;/div&gt;
 
-&lt;p&gt;&lt;em&gt;Lähteet: Sisäilmayhdistys ry, Allergia- ja astmaliitto ja Hengitysliitto&lt;/em&gt;&lt;/p&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col ml-n5&quot;&gt;
 
-&lt;div class=&quot;card mt-5&quot; style=&quot;max-width: 30rem;&quot;&gt;
-  &lt;picture&gt;
-    &lt;source type=&quot;image/webp&quot; srcset=&quot;/assets/images/annie-spratt-294447-unsplash-800x533.webp&quot; /&gt;
-    &lt;source type=&quot;image/jpeg&quot; srcset=&quot;/assets/images/annie-spratt-294447-unsplash-800x533.jpg&quot; /&gt;
-    &lt;img src=&quot;/assets/images/annie-spratt-294447-unsplash-800x533.jpg&quot; loading=&quot;lazy&quot; class=&quot;card-img-top&quot; style=&quot;height: auto;&quot; width=&quot;800&quot; height=&quot;533&quot; alt=&quot;...&quot; /&gt;
-  &lt;/picture&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Asunnon ilmanvaihdon parantaminen&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;&lt;small class=&quot;text-muted&quot;&gt;Dec 6, 2019&lt;/small&gt;&lt;/p&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Ilmanvaihdon parantamisessa tärkeimpiä huoneita asunnoissa ovat makuuhuoneet, niistä puuttuu yleensä ulkoa tuleva raikas korvausilma.&lt;/p&gt;
-    &lt;a href=&quot;/asunnon-ilmanvaihdon-parantaminen/&quot; class=&quot;card-link&quot;&gt;Lue lisää&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Mobair Oy</name></author><summary type="html">Sisäilman laatu vaikuttaa tiloissa oleskelevien ihmisten oloon ja virkeyteen. Mitä puhtaampaa tämä ilma on, sitä paremmin elimistö voi.</summary></entry><entry><title type="html">Asunnon ilmanvaihdon parantaminen</title><link href="https://mobair.fi/asunnon-ilmanvaihdon-parantaminen/" rel="alternate" type="text/html" title="Asunnon ilmanvaihdon parantaminen" /><published>2019-12-06T06:00:00+02:00</published><updated>2019-12-06T06:00:00+02:00</updated><id>https://mobair.fi/asunnon-ilmanvaihdon-parantaminen</id><content type="html" xml:base="https://mobair.fi/asunnon-ilmanvaihdon-parantaminen/">&lt;p&gt;Asunnon ilmanvaihdon parantamiseksi on markkinoilla tarjolla laaja valikoima ilmanvaihtolaitteita ja ilmastointilaitteita.&lt;/p&gt;
+                &lt;!-- Name --&gt;
+                &lt;h6 class=&quot;text-uppercase mb-0&quot;&gt;
+                  Mobair
+                &lt;/h6&gt;
 
-&lt;p&gt;Ilmanvaihto tarkoittaa pelkästään huoneilman poistamista ulos esim. huippuimurilla ja ulkoilman tuomista sisälle korvausilmaventtiilin kautta. Ilmastointi tarkoittaa edellä mainitun lisäksi huoneilman käsittelyä, kuten esim. jäähdyttämistä ja suodattamista. Kannattaa huolella perehtyä vaihtoehtoihin ennen kuin valitsee ilmastointilaitteen kotiin. Vanhemmissa asunnoissa on yleensä painovoimainen ilmanvaihto, tarkoittaen sitä, että WC:stä, kylpyhuoneesta ja saunasta on johdettu poistoilmakanava ulos ilman puhallinta. Keittiössä on kuitenkin yleensä liesituuletin.&lt;/p&gt;
+                &lt;!-- Date --&gt;
+                &lt;time class=&quot;font-size-sm text-muted&quot; datetime=&quot;2019-05-20&quot;&gt;
+                  Julkaistu 8.1.2020
+                &lt;/time&gt;
 
-&lt;p&gt;Terveellisen huoneilman saavuttamiseksi ei välttämättä tarvita kalliita ilmastointilaitteita ja ilmanvaihtokoneita kanavistoineen. Huonekohtainen tarpeenmukainen ilmanvaihto ei tarvitse lainkaan kanavistoa. Kun ilmanpoisto on yleensä järjestyksessä, tarvitaan vain lämmittävät ja suodattavat Mobair korvausilmalaitteet. Korvausilmalaitteet sijoitetaan ensisijaisesti käytössä oleviin makuuhuoneisiin. Nimenomaan makuuhuoneissa on aamuyöstä erittäin heikko ilmanlaatu, ellei ilmanvaihto ole kunnossa. Huono sisäilma heikentää mm. unen laatua. Vertailun vuoksi kesällä kun voi nukkua tuuletusikkuna auki on ilmanlaatu aivan eri tasoa.&lt;/p&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-auto&quot;&gt;
 
-&lt;p&gt;Korvausilmaventtiileissä tulee ehdottomasti olla lämmitys ominaisuus, muutoin ulkoa tuleva kylmä ilma aiheuttaa vetoa ja lattiat kylmenevät. Jotta ilma kulkeutuu makuuhuoneista pesuhuoneiden ja muiden vastaavien poistoilmaventtiileihin, tulee ovissa olla reilut oviraot jotta ilma pääsee vapaasti virtaamaan. Makuuhuoneiden lisäksi korvausilmaventtiilin voi laittaa myös olohuoneeseen, varsinkin jos siellä on takka, mutta makuuhuoneet ovat tärkeimmät. Pesuhuoneissa olevat korvausilmaventtiilit kannattaa sulkea. Löylyhuoneeseen voi tuoda suoraan ulkoilmaa, mutta mielellään huoneen yläosaan lauteiden lähelle.&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
 
-&lt;h3 class=&quot;mt-4&quot;&gt;Painovoimainen ilmanvaihto&lt;/h3&gt;
+          &lt;/div&gt;
+        &lt;/div&gt; &lt;!-- / .row --&gt;
+      &lt;/div&gt; &lt;!-- / .container --&gt;
+    &lt;/section&gt;
 
-&lt;p&gt;Vanhemmissa rakennuksissa on yleensä painovoimainen ilmanvaihto. Se on yleensä aivan toimiva ratkaisu, kun korvausilman saannista huolehditaan esim. Mobair 2030S-korvausilmalaitteilla. Painovoimaista ilmanvaihtoa voidaan tehostaa liesituulettimella ja esim. pesuhuoneen poistoilma-aukkoon liitettävällä puhaltimella.&lt;/p&gt;
+    &lt;!-- SECTION
+    ================================================== --&gt;
+    &lt;section class=&quot;py-6 py-md-8&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row justify-content-center&quot;&gt;
+          &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
+          
+            &lt;!-- Heading --&gt;
+            &lt;h3 class=&quot;font-weight-bold&quot;&gt;
+              Mitä hyvä sisäilma on?
+            &lt;/h3&gt;
 
-&lt;p&gt;Painovoimainen ilmanvaihto ei toimi kesällä hyvin ellei korvausilmalaitteissa ole puhallinta. Talvella ja kovalla tuulella painovoimainen ilmanvaihto pyrkii toimimaan liian tehokkaasti. Mobair-korvausilmalaitteissa oleva tiivis suodatin ja säätötulppa rajoittavat turhaa ilmanvaihtoa. Mobair-laitteen voi liittää olemassa olevaan painovoimaisen ilmanvaihdon korvausilma-aukkoon.&lt;/p&gt;
+            &lt;!-- Text --&gt;
+            &lt;p class=&quot;mb-6&quot;&gt;
+              Puhdas sisäilma – pölytön, hajuton, vedoton ja meluton – eli hyvä sisäilma on monen eri asian summa. Toimiva ilmanvaihto on kuitenkin hyvän sisäilman perusta. Vanhoissa taloissa ilmanvaihto toimii usein puutteellisesti. Korvausilmalaite auttaa korjaamaan tämän puutteen niissä tiloissa, joissa raikasta ilmaa tarvitaan lisää. Sisäilman laatu vaikuttaa tiloissa oleskelevien ihmisten oloon ja virkeyteen. Mitä puhtaampaa tämä ilma on, sitä paremmin elimistö voi.
+            &lt;/p&gt;
+            
+            &lt;!-- Heading --&gt;
+            &lt;h3 class=&quot;font-weight-bold&quot;&gt;
+              Onko huoneessa sopivan lämmintä?
+            &lt;/h3&gt;
 
-&lt;h3 class=&quot;mt-4&quot;&gt;Koneellinen ilmanvaihto&lt;/h3&gt;
+            &lt;!-- Text --&gt;
+            &lt;p class=&quot;mb-6&quot;&gt;
+              Sopiva sisäilman lämpötila riippuu tilan käyttötarkoituksesta. Liian korkea lämpötila (yli 24 °C) tuntuu kuivalta ja tunkkaiselta, kun taas liian alhainen lämpötila (alle 20 °C) tuntuu vetona. Makuuhuoneessa vilpoisempi lämpötila auttaa kuitenkin nukkumisessa, ja toimistoissa sopiva lämpötila ja hapen määrä auttavat hyvän työvireen ylläpitämisessä. Erilaisten tilojen ilmanvaihtotarpeissa auttaa huonekohtainen korvausilmalaite: se auttaa huoneiden erilaisten käyttötarpeiden mukaisen ilmantarpeen säätelemisessä.
+            &lt;/p&gt;
+            
+            &lt;!-- Heading --&gt;
+            &lt;h3 class=&quot;font-weight-bold&quot;&gt;
+              Onko huoneessa hyvä hengittää ja tuoksuuko siellä hyvälle?
+            &lt;/h3&gt;
 
-&lt;p&gt;Uudemmissa rakennuksissa on koneellinen ilmanvaihto. Joko täysin koneellinen jossa on tulo- ja poistoilmaventtiilit tai pelkkä koneellinen poisto. Koneellisen ilmanvaihdon ongelmana on lämmitetyn korvausilman puute jolloin ilmanvaihto ei toimi etenkään talvella jolloin ikkunaraoista virtaava kylmä ilma aiheuttaa vetoa ja kylmettää lattiat. Lämmittävillä Mobair-korvausilmalaitteilla tämä ongelma on helppo korjata.&lt;/p&gt;
+            &lt;!-- Text --&gt;
+            &lt;p class=&quot;mb-6&quot;&gt;
+              Tilaan astuttaessa sen ilman tulee tuntua raikkaalta. Sisäilma, jossa on liian paljon hiilidioksidia (yli 1200 ppm), aistitaan tunkkaisena ja epämiellyttävänä hengittää. Huoneen tarpeeseen valittu korvausilmalaite syöttää huoneeseen vedottomasti raikasta happipitoista ilmaa, ja hiilidioksidipitoisuudet pysyvät kurissa.
+            &lt;/p&gt;
+            
+            &lt;!-- Heading --&gt;
+            &lt;h3 class=&quot;font-weight-bold&quot;&gt;
+              Ilmanvaihtoa ilman kallista ilmanvaihtojärjestelmän remonttia
+            &lt;/h3&gt;
 
-&lt;p&gt;Kun on koneellinen ilmanvaihto, kannattaa ilmanvaihdon eli poistoimurin tehoon kiinnittää erityistä huomiota. Koneellista ilmanvaihtoa ei tarvitse pitää isommalla teholla kuin pesuhuoneen, kodinhoitohuoneen ja keittiön käytön yhteydessä. Normaalioloissa riittää asukasmäärän mukaan säädetty ilmanvaihtomäärä, mikä on yleensä n. 30% koneellisen ilmanvaihdon maksimitehosta. Talvella ylimääräinen ilmanvaihto kuivattaa huoneilmaa ja kuluttaa turhaa energiaa.&lt;/p&gt;
+            &lt;!-- Text --&gt;
+            &lt;p class=&quot;mb-6&quot;&gt;
+              Ilmanvaihdon tehostaminen korvausilmalaitteella on järkevää, sillä silloin ei ole tarvetta mittavalle ja kalliille ilmanvaihtojärjestelmän remontille. Korvausilmalaitteet voit asentaa itse niihin huoneisiin, joiden ilmanvaihtoa haluat parantaa, ja myös tyylitellä pienikokoisen korvausilmalaitteen ilmeeltään tilaan sopivaksi.
+            &lt;/p&gt;
+            
+            &lt;!-- Heading --&gt;
+            &lt;h3 class=&quot;font-weight-bold&quot;&gt;
+              Huono sisäilma on erittäin haitallista ihmisten terveydelle
+            &lt;/h3&gt;
 
-&lt;div class=&quot;card mt-5&quot; style=&quot;max-width: 30rem;&quot;&gt;
-  &lt;picture&gt;
-    &lt;source type=&quot;image/webp&quot; srcset=&quot;/assets/images/drops-of-water-nature-nature-wallpaper-8633_800x533.webp&quot; /&gt;
-    &lt;source type=&quot;image/jpeg&quot; srcset=&quot;/assets/images/drops-of-water-nature-nature-wallpaper-8633_800x533.jpg&quot; /&gt;
-    &lt;img src=&quot;/assets/images/drops-of-water-nature-nature-wallpaper-8633_800x533.jpg&quot; loading=&quot;lazy&quot; class=&quot;card-img-top&quot; style=&quot;height: auto;&quot; width=&quot;800&quot; height=&quot;533&quot; alt=&quot;...&quot; /&gt;
-  &lt;/picture&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Valitse raikas ja hyvä sisäilma&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;&lt;small class=&quot;text-muted&quot;&gt;Jan 8, 2020&lt;/small&gt;&lt;/p&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Sisäilman laatu vaikuttaa tiloissa oleskelevien ihmisten oloon ja virkeyteen. Mitä puhtaampaa tämä ilma on, sitä paremmin elimistö voi.&lt;/p&gt;
-    &lt;a href=&quot;/hyva-sisailma/&quot; class=&quot;card-link&quot;&gt;Lue lisää&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Mobair Oy</name></author><summary type="html">Ilmanvaihdon parantamisessa tärkeimpiä huoneita asunnoissa ovat makuuhuoneet, niistä puuttuu yleensä ulkoa tuleva raikas korvausilma.</summary></entry></feed>
+            &lt;!-- Text --&gt;
+            &lt;p&gt;
+              Mikäli hometta tai jotain muuta terveydelle vaarallista ainetta todetaan, tulee ensisijaisesti selvittää päästölähde ja poistaa se. Tämän lisäksi kun ilmanvaihto laitetaan kuntoon, voidaan asua turvallisin mielin.
+            &lt;/p&gt;
+            &lt;p&gt;
+              Asunnoissa yleisimmin makuuhuoneessa on huono sisäilma. Kahden hengen makuuhuoneessa hiilidioksidipitoisuus nousee helposti arvoon 1600 bec kun suositus on 800 bec. Huonosta sisäilmasta pääsee helpolla eroon asentamalla kaikkiin käytössä oleviin huoneisiin Mobair-korvausilmalaitteet. Mikäli makuuhuoneen ovi pidätetään kiinni, tulee oven alareunassa olla reilu ovirako.
+            &lt;/p&gt;
+            &lt;p class=&quot;mb-6&quot;&gt;
+              Huonoa sisäilmaa on turha kärsiä, sillä korjauskustannukset ovat hyvin pienet. Huonon sisäilman tunnistaa hajusta ja esim. ikkunoiden huurtumisesta.
+            &lt;/p&gt;
+            
+            &lt;p class=&quot;text-muted mb-0&quot;&gt;
+              Lähteet: Sisäilmayhdistys ry, Allergia- ja astmaliitto ja Hengitysliitto
+            &lt;/p&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt; &lt;!-- / .row --&gt;
+      &lt;/div&gt; &lt;!-- / .container --&gt;
+    &lt;/section&gt;
+
+    &lt;!-- ARTICLES
+    ================================================== --&gt;
+    &lt;section class=&quot;py-8 py-md-11 bg-light&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-12&quot;&gt;
+
+            &lt;!-- Card --&gt;
+            &lt;div class=&quot;card card-row shadow-light-lg mb-6 lift&quot;&gt;
+              &lt;div class=&quot;row no-gutters&quot;&gt;
+                &lt;div class=&quot;col-12&quot;&gt;             
+
+                &lt;/div&gt;
+                &lt;a class=&quot;col-12 col-md-6 bg-cover card-img-left&quot; style=&quot;background-image: url(/assets/img/photos/annie-spratt-294447-unsplash-800x533.jpg);&quot; href=&quot;/asunnon-ilmanvaihdon-parantaminen/&quot;&gt;
+
+                  &lt;!-- Image (placeholder) --&gt;
+                  &lt;img src=&quot;/assets/img/photos/annie-spratt-294447-unsplash-800x533.jpg&quot; alt=&quot;...&quot; class=&quot;img-fluid d-md-none invisible&quot;&gt;
+
+                  &lt;!-- Shape --&gt;
+                  &lt;div class=&quot;shape shape-right shape-fluid-y svg-shim text-white d-none d-md-block&quot;&gt;
+                    &lt;svg viewBox=&quot;0 0 112 690&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M116 0H51v172C76 384 0 517 0 517v173h116V0z&quot; fill=&quot;currentColor&quot;/&gt;&lt;/svg&gt;
+                  &lt;/div&gt;
+
+                &lt;/a&gt;
+                &lt;div class=&quot;col-12 col-md-6&quot;&gt;
+
+                  &lt;!-- Body --&gt;
+                  &lt;a class=&quot;card-body&quot; href=&quot;/asunnon-ilmanvaihdon-parantaminen/&quot;&gt;
+
+                    &lt;!-- Heading --&gt;
+                    &lt;h3&gt;
+                      Asunnon ilmanvaihdon parantaminen
+                    &lt;/h3&gt;
+
+                    &lt;!-- Text --&gt;
+                    &lt;p class=&quot;mb-0 text-muted&quot;&gt;
+                      Ilmanvaihdon parantamisessa tärkeimpiä huoneita asunnoissa ovat makuuhuoneet, niistä puuttuu yleensä ulkoa tuleva raikas korvausilma.
+                    &lt;/p&gt;
+
+                  &lt;/a&gt;
+
+                  &lt;!-- Meta --&gt;
+                  &lt;a class=&quot;card-meta&quot; href=&quot;/asunnon-ilmanvaihdon-parantaminen/&quot;&gt;
+
+                    &lt;!-- Divider --&gt;
+                    &lt;hr class=&quot;card-meta-divider&quot;&gt;
+
+                    &lt;!-- Avatar --&gt;
+                    &lt;div class=&quot;avatar avatar-sm mr-2&quot;&gt;
+                      &lt;img src=&quot;/assets/img/avatars/mobair-avatar.png&quot; alt=&quot;...&quot; class=&quot;avatar-img rounded-circle&quot;&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;!-- Author --&gt;
+                    &lt;h6 class=&quot;text-uppercase text-muted mr-2 mb-0&quot;&gt;
+                      Mobair
+                    &lt;/h6&gt;
+                    
+                    &lt;!-- Date --&gt;
+                    &lt;p class=&quot;h6 text-uppercase text-muted mb-0 ml-auto&quot;&gt;
+                      &lt;time datetime=&quot;2019-05-29&quot;&gt;6.12.2019&lt;/time&gt;
+                    &lt;/p&gt;
+
+                  &lt;/a&gt;
+
+                &lt;/div&gt;
+
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt; &lt;!-- / .row --&gt;
+      &lt;/div&gt; &lt;!-- / .container --&gt;
+    &lt;/section&gt;</content><author><name>Mobair Oy</name></author><summary type="html">Sisäilman laatu vaikuttaa tiloissa oleskelevien ihmisten oloon ja virkeyteen. Mitä puhtaampaa tämä ilma on, sitä paremmin elimistö voi.</summary></entry><entry><title type="html">Asunnon ilmanvaihdon parantaminen</title><link href="https://mobair.fi/asunnon-ilmanvaihdon-parantaminen/" rel="alternate" type="text/html" title="Asunnon ilmanvaihdon parantaminen" /><published>2019-12-06T06:00:00+02:00</published><updated>2019-12-06T06:00:00+02:00</updated><id>https://mobair.fi/asunnon-ilmanvaihdon-parantaminen</id><content type="html" xml:base="https://mobair.fi/asunnon-ilmanvaihdon-parantaminen/">&lt;!-- IMAGE
+    ================================================== --&gt;
+    &lt;section data-jarallax data-speed=&quot;.8&quot; class=&quot;py-12 py-md-15 bg-cover jarallax&quot; style=&quot;background-image: url(/assets/img/photos/annie-spratt-294447-unsplash-800x533.jpg);&quot;&gt;&lt;/section&gt;
+
+    &lt;!-- HEADER
+    ================================================== --&gt;
+    &lt;section class=&quot;pt-8 pt-md-11&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row justify-content-center&quot;&gt;
+          &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
+
+            &lt;!-- Heading --&gt;
+            &lt;h1 class=&quot;display-4 text-center&quot;&gt;
+              Asunnon ilmanvaihdon parantaminen
+            &lt;/h1&gt;
+
+            &lt;!-- Text --&gt;
+            &lt;p class=&quot;lead mb-7 text-center text-muted&quot;&gt;
+              Ilmanvaihdon parantamisessa tärkeimpiä huoneita asunnoissa ovat makuuhuoneet, niistä puuttuu yleensä ulkoa tuleva raikas korvausilma.
+            &lt;/p&gt;
+
+            &lt;!-- Meta --&gt;
+            &lt;div class=&quot;row align-items-center py-5 border-top border-bottom&quot;&gt;
+              &lt;div class=&quot;col-auto&quot;&gt;
+
+                &lt;!-- Avatar --&gt;
+                &lt;div class=&quot;avatar avatar-lg&quot;&gt;
+                  &lt;img src=&quot;/assets/img/avatars/mobair-avatar.png&quot; alt=&quot;...&quot; class=&quot;avatar-img rounded-circle&quot;&gt;
+                &lt;/div&gt;
+
+              &lt;/div&gt;
+              &lt;div class=&quot;col ml-n5&quot;&gt;
+
+                &lt;!-- Name --&gt;
+                &lt;h6 class=&quot;text-uppercase mb-0&quot;&gt;
+                  Mobair
+                &lt;/h6&gt;
+
+                &lt;!-- Date --&gt;
+                &lt;time class=&quot;font-size-sm text-muted&quot; datetime=&quot;2019-05-20&quot;&gt;
+                  Julkaistu 6.12.2019
+                &lt;/time&gt;
+
+              &lt;/div&gt;
+              &lt;div class=&quot;col-auto&quot;&gt;
+
+              &lt;/div&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt; &lt;!-- / .row --&gt;
+      &lt;/div&gt; &lt;!-- / .container --&gt;
+    &lt;/section&gt;
+
+    &lt;!-- SECTION
+    ================================================== --&gt;
+    &lt;section class=&quot;pt-6 pt-md-8&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row justify-content-center&quot;&gt;
+          &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
+
+            &lt;!-- Text --&gt;
+            &lt;p&gt;
+              Asunnon ilmanvaihdon parantamiseksi on markkinoilla tarjolla laaja valikoima ilmanvaihtolaitteita ja ilmastointilaitteita.
+            &lt;/p&gt;
+            &lt;p class=&quot;&quot;&gt;
+              Ilmanvaihto tarkoittaa pelkästään huoneilman poistamista ulos esim. huippuimurilla ja ulkoilman tuomista sisälle korvausilmaventtiilin kautta. Ilmastointi tarkoittaa edellä mainitun lisäksi huoneilman käsittelyä, kuten esim. jäähdyttämistä ja suodattamista. Kannattaa huolella perehtyä vaihtoehtoihin ennen kuin valitsee ilmastointilaitteen kotiin. Vanhemmissa asunnoissa on yleensä painovoimainen ilmanvaihto, tarkoittaen sitä, että WC:stä, kylpyhuoneesta ja saunasta on johdettu poistoilmakanava ulos ilman puhallinta. Keittiössä on kuitenkin yleensä liesituuletin.
+            &lt;/p&gt;
+            &lt;p class=&quot;mb-0&quot;&gt;
+              Terveellisen huoneilman saavuttamiseksi ei välttämättä tarvita kalliita ilmastointilaitteita ja ilmanvaihtokoneita kanavistoineen. Huonekohtainen tarpeenmukainen ilmanvaihto ei tarvitse lainkaan kanavistoa. Kun ilmanpoisto on yleensä järjestyksessä, tarvitaan vain lämmittävät ja suodattavat Mobair korvausilmalaitteet. Korvausilmalaitteet sijoitetaan ensisijaisesti käytössä oleviin makuuhuoneisiin. Nimenomaan makuuhuoneissa on aamuyöstä erittäin heikko ilmanlaatu, ellei ilmanvaihto ole kunnossa. Huono sisäilma heikentää mm. unen laatua. Vertailun vuoksi kesällä kun voi nukkua tuuletusikkuna auki on ilmanlaatu aivan eri tasoa.
+            &lt;/p&gt;
+            
+
+          &lt;/div&gt;
+        &lt;/div&gt; &lt;!-- / .row --&gt;
+      &lt;/div&gt; &lt;!-- / .container --&gt;
+    &lt;/section&gt;
+
+    &lt;!-- SECTION
+    ================================================== --&gt;
+    &lt;section class=&quot;pt-6 pt-md-8&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row justify-content-center&quot;&gt;
+          &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
+
+            &lt;!-- Heading --&gt;
+            &lt;h2 class=&quot;font-weight-bold&quot;&gt;
+              Painovoimainen ilmanvaihto
+            &lt;/h2&gt;
+
+            &lt;!-- Text --&gt;
+            &lt;p&gt;
+              Vanhemmissa rakennuksissa on yleensä painovoimainen ilmanvaihto. Se on yleensä aivan toimiva ratkaisu, kun korvausilman saannista huolehditaan esim. Mobair 2030S-korvausilmalaitteilla. Painovoimaista ilmanvaihtoa voidaan tehostaa liesituulettimella ja esim. pesuhuoneen poistoilma-aukkoon liitettävällä puhaltimella.
+            &lt;/p&gt;
+            &lt;ul class=&quot;mb-0&quot;&gt;
+              &lt;li&gt;
+                Painovoimainen ilmanvaihto ei toimi kesällä hyvin ellei korvausilmalaitteissa ole puhallinta.
+              &lt;/li&gt;
+              &lt;li class=&quot;mt-4&quot;&gt;
+                Talvella ja kovalla tuulella painovoimainen ilmanvaihto pyrkii toimimaan liian tehokkaasti.
+              &lt;/li&gt;
+              &lt;li class=&quot;mt-4&quot;&gt;
+                Mobair-korvausilmalaitteissa oleva tiivis suodatin ja säätötulppa rajoittavat turhaa ilmanvaihtoa.
+              &lt;/li&gt;
+              &lt;li class=&quot;mt-4&quot;&gt;
+                Mobair-laitteen voi liittää olemassa olevaan painovoimaisen ilmanvaihdon korvausilma-aukkoon.
+              &lt;/li&gt;
+            &lt;/ul&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt; &lt;!-- / .row --&gt;
+      &lt;/div&gt; &lt;!-- / .container --&gt;
+    &lt;/section&gt;
+    
+    &lt;!-- SECTION
+    ================================================== --&gt;
+    &lt;section class=&quot;py-6 py-md-8 pb-md-10&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row justify-content-center&quot;&gt;
+          &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
+
+            &lt;!-- Heading --&gt;
+            &lt;h2 class=&quot;font-weight-bold&quot;&gt;
+              Koneellinen ilmanvaihto
+            &lt;/h2&gt;
+
+            &lt;!-- Text --&gt;
+            &lt;p&gt;
+              Uudemmissa rakennuksissa on koneellinen ilmanvaihto. Joko täysin koneellinen jossa on tulo- ja poistoilmaventtiilit tai pelkkä koneellinen poisto. Koneellisen ilmanvaihdon ongelmana on lämmitetyn korvausilman puute jolloin ilmanvaihto ei toimi etenkään talvella jolloin ikkunaraoista virtaava kylmä ilma aiheuttaa vetoa ja kylmettää lattiat. Lämmittävillä Mobair-korvausilmalaitteilla tämä ongelma on helppo korjata.
+            &lt;/p&gt;
+            &lt;ul class=&quot;mb-0&quot;&gt;
+              &lt;li&gt;
+                Kun on koneellinen ilmanvaihto, kannattaa ilmanvaihdon eli poistoimurin tehoon kiinnittää erityistä huomiota.
+              &lt;/li&gt;
+              &lt;li class=&quot;mt-4&quot;&gt;
+                Koneellista ilmanvaihtoa ei tarvitse pitää isommalla teholla kuin pesuhuoneen, kodinhoitohuoneen ja keittiön käytön yhteydessä.
+              &lt;/li&gt;
+              &lt;li class=&quot;mt-4&quot;&gt;
+                Normaalioloissa riittää asukasmäärän mukaan säädetty ilmanvaihtomäärä, mikä on yleensä n. 30% koneellisen ilmanvaihdon maksimitehosta.
+              &lt;/li&gt;
+              &lt;li class=&quot;mt-4&quot;&gt;
+                Talvella ylimääräinen ilmanvaihto kuivattaa huoneilmaa ja kuluttaa turhaa energiaa.
+              &lt;/li&gt;
+            &lt;/ul&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt; &lt;!-- / .row --&gt;
+      &lt;/div&gt; &lt;!-- / .container --&gt;
+    &lt;/section&gt;
+
+    &lt;!-- ARTICLES
+    ================================================== --&gt;
+    &lt;section class=&quot;py-8 py-md-11 bg-light&quot;&gt;
+      &lt;div class=&quot;container&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-12&quot;&gt;
+
+            &lt;!-- Card --&gt;
+            &lt;div class=&quot;card card-row shadow-light-lg mb-6 lift&quot;&gt;
+              &lt;div class=&quot;row no-gutters&quot;&gt;
+                &lt;div class=&quot;col-12&quot;&gt;             
+
+                &lt;/div&gt;
+                &lt;a class=&quot;col-12 col-md-6 bg-cover card-img-left&quot; style=&quot;background-image: url(/assets/img/photos/drops-of-water-nature-nature-wallpaper-8633_800x533.jpg);&quot; href=&quot;/hyva-sisailma/&quot;&gt;
+
+                  &lt;!-- Image (placeholder) --&gt;
+                  &lt;img src=&quot;/assets/img/photos/drops-of-water-nature-nature-wallpaper-8633_800x533.jpg&quot; alt=&quot;...&quot; class=&quot;img-fluid d-md-none invisible&quot;&gt;
+
+                  &lt;!-- Shape --&gt;
+                  &lt;div class=&quot;shape shape-right shape-fluid-y svg-shim text-white d-none d-md-block&quot;&gt;
+                    &lt;svg viewBox=&quot;0 0 112 690&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M116 0H51v172C76 384 0 517 0 517v173h116V0z&quot; fill=&quot;currentColor&quot;/&gt;&lt;/svg&gt;
+                  &lt;/div&gt;
+
+                &lt;/a&gt;
+                &lt;div class=&quot;col-12 col-md-6&quot;&gt;
+
+                  &lt;!-- Body --&gt;
+                  &lt;a class=&quot;card-body&quot; href=&quot;/hyva-sisailma/&quot;&gt;
+
+                    &lt;!-- Heading --&gt;
+                    &lt;h3&gt;
+                      Valitse raikas ja hyvä sisäilma
+                    &lt;/h3&gt;
+
+                    &lt;!-- Text --&gt;
+                    &lt;p class=&quot;mb-0 text-muted&quot;&gt;
+                      Sisäilman laatu vaikuttaa tiloissa oleskelevien ihmisten oloon ja virkeyteen. Mitä puhtaampaa tämä ilma on, sitä paremmin elimistö voi.
+                    &lt;/p&gt;
+
+                  &lt;/a&gt;
+
+                  &lt;!-- Meta --&gt;
+                  &lt;a class=&quot;card-meta&quot; href=&quot;/hyva-sisailma/&quot;&gt;
+
+                    &lt;!-- Divider --&gt;
+                    &lt;hr class=&quot;card-meta-divider&quot;&gt;
+
+                    &lt;!-- Avatar --&gt;
+                    &lt;div class=&quot;avatar avatar-sm mr-2&quot;&gt;
+                      &lt;img src=&quot;/assets/img/avatars/mobair-avatar.png&quot; alt=&quot;...&quot; class=&quot;avatar-img rounded-circle&quot;&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;!-- Author --&gt;
+                    &lt;h6 class=&quot;text-uppercase text-muted mr-2 mb-0&quot;&gt;
+                      Mobair
+                    &lt;/h6&gt;
+                    
+                    &lt;!-- Date --&gt;
+                    &lt;p class=&quot;h6 text-uppercase text-muted mb-0 ml-auto&quot;&gt;
+                      &lt;time datetime=&quot;2019-05-29&quot;&gt;8.1.2020&lt;/time&gt;
+                    &lt;/p&gt;
+
+                  &lt;/a&gt;
+
+                &lt;/div&gt;
+
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+          &lt;/div&gt;
+        &lt;/div&gt; &lt;!-- / .row --&gt;
+      &lt;/div&gt; &lt;!-- / .container --&gt;
+    &lt;/section&gt;</content><author><name>Mobair Oy</name></author><summary type="html">Ilmanvaihdon parantamisessa tärkeimpiä huoneita asunnoissa ovat makuuhuoneet, niistä puuttuu yleensä ulkoa tuleva raikas korvausilma.</summary></entry></feed>
