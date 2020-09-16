@@ -11809,9 +11809,12 @@ html, body {
   src: url("../fonts/HK%20Grotesk%20Pro/HKGroteskPro-Medium.woff2") format("woff2"), url("../fonts/HK%20Grotesk%20Pro/HKGroteskPro-Medium.woff") format("woff"); }
   
 @font-face {
-  font-family: "HKGroteskPro";
+  font-family: "HKNovaRounded";
   font-weight: 800;
-  src: url("../fonts/HK%20Grotesk%20Pro/HKGroteskPro-SemiBold.woff2") format("woff2"), url("../fonts/HK%20Grotesk%20Pro/HKGroteskPro-SemiBold.woff") format("woff"); }
+  src: url("../fonts/HKNovaRounded_1013WSB/HKNovaRounded_1013WSB/HKNova-SemiBoldR.woff2") format("woff2"), url("../fonts/HKNovaRounded_1013WSB/HKNovaRounded_1013WSB/HKNova-SemiBoldR.woff") format("woff"); }
+  
+.hknovar {
+  font-family: "HKNovaRounded"; }
 
 h1, h2,
 .h1, .h2 {

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi"><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://mobair.fi/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mobair.fi/" rel="alternate" type="text/html" hreflang="fi" /><updated>2020-09-15T00:42:47+03:00</updated><id>https://mobair.fi/feed.xml</id><title type="html">MOBAIR</title><subtitle>Ratkaise huonekohtaiset ilmanvaihto-ongelmat korvausilmalaitteilla  nopeasti, helposti ja edullisesti.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://mobair.fi/jekyll/update/2020/08/26/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-08-26T10:14:20+03:00</published><updated>2020-08-26T10:14:20+03:00</updated><id>https://mobair.fi/jekyll/update/2020/08/26/welcome-to-jekyll</id><content type="html" xml:base="https://mobair.fi/jekyll/update/2020/08/26/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fi"><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://mobair.fi/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mobair.fi/" rel="alternate" type="text/html" hreflang="fi" /><updated>2020-09-17T01:11:26+03:00</updated><id>https://mobair.fi/feed.xml</id><title type="html">MOBAIR</title><subtitle>Ratkaise huonekohtaiset ilmanvaihto-ongelmat korvausilmalaitteilla  nopeasti, helposti ja edullisesti.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://mobair.fi/jekyll/update/2020/08/26/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-08-26T10:14:20+03:00</published><updated>2020-08-26T10:14:20+03:00</updated><id>https://mobair.fi/jekyll/update/2020/08/26/welcome-to-jekyll</id><content type="html" xml:base="https://mobair.fi/jekyll/update/2020/08/26/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -26,7 +26,7 @@
           &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
 
             &lt;!-- Heading --&gt;
-            &lt;h1 class=&quot;display-4 text-center&quot;&gt;
+            &lt;h1 class=&quot;display-4 text-center hknovar&quot;&gt;
               Valitse raikas ja hyvä sisäilma
             &lt;/h1&gt;
 
@@ -76,47 +76,47 @@
           &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
           
             &lt;!-- Heading --&gt;
-            &lt;h3 class=&quot;font-weight-bold&quot;&gt;
+            &lt;h3 class=&quot;&quot;&gt;
               Mitä hyvä sisäilma on?
             &lt;/h3&gt;
 
             &lt;!-- Text --&gt;
-            &lt;p class=&quot;mb-6&quot;&gt;
+            &lt;p class=&quot;mb-8&quot;&gt;
               Puhdas sisäilma – pölytön, hajuton, vedoton ja meluton – eli hyvä sisäilma on monen eri asian summa. Toimiva ilmanvaihto on kuitenkin hyvän sisäilman perusta. Vanhoissa taloissa ilmanvaihto toimii usein puutteellisesti. Korvausilmalaite auttaa korjaamaan tämän puutteen niissä tiloissa, joissa raikasta ilmaa tarvitaan lisää. Sisäilman laatu vaikuttaa tiloissa oleskelevien ihmisten oloon ja virkeyteen. Mitä puhtaampaa tämä ilma on, sitä paremmin elimistö voi.
             &lt;/p&gt;
             
             &lt;!-- Heading --&gt;
-            &lt;h3 class=&quot;font-weight-bold&quot;&gt;
+            &lt;h3 class=&quot;&quot;&gt;
               Onko huoneessa sopivan lämmintä?
             &lt;/h3&gt;
 
             &lt;!-- Text --&gt;
-            &lt;p class=&quot;mb-6&quot;&gt;
+            &lt;p class=&quot;mb-8&quot;&gt;
               Sopiva sisäilman lämpötila riippuu tilan käyttötarkoituksesta. Liian korkea lämpötila (yli 24 °C) tuntuu kuivalta ja tunkkaiselta, kun taas liian alhainen lämpötila (alle 20 °C) tuntuu vetona. Makuuhuoneessa vilpoisempi lämpötila auttaa kuitenkin nukkumisessa, ja toimistoissa sopiva lämpötila ja hapen määrä auttavat hyvän työvireen ylläpitämisessä. Erilaisten tilojen ilmanvaihtotarpeissa auttaa huonekohtainen korvausilmalaite: se auttaa huoneiden erilaisten käyttötarpeiden mukaisen ilmantarpeen säätelemisessä.
             &lt;/p&gt;
             
             &lt;!-- Heading --&gt;
-            &lt;h3 class=&quot;font-weight-bold&quot;&gt;
+            &lt;h3 class=&quot;&quot;&gt;
               Onko huoneessa hyvä hengittää ja tuoksuuko siellä hyvälle?
             &lt;/h3&gt;
 
             &lt;!-- Text --&gt;
-            &lt;p class=&quot;mb-6&quot;&gt;
+            &lt;p class=&quot;mb-8&quot;&gt;
               Tilaan astuttaessa sen ilman tulee tuntua raikkaalta. Sisäilma, jossa on liian paljon hiilidioksidia (yli 1200 ppm), aistitaan tunkkaisena ja epämiellyttävänä hengittää. Huoneen tarpeeseen valittu korvausilmalaite syöttää huoneeseen vedottomasti raikasta happipitoista ilmaa, ja hiilidioksidipitoisuudet pysyvät kurissa.
             &lt;/p&gt;
             
             &lt;!-- Heading --&gt;
-            &lt;h3 class=&quot;font-weight-bold&quot;&gt;
+            &lt;h3 class=&quot;&quot;&gt;
               Ilmanvaihtoa ilman kallista ilmanvaihtojärjestelmän remonttia
             &lt;/h3&gt;
 
             &lt;!-- Text --&gt;
-            &lt;p class=&quot;mb-6&quot;&gt;
+            &lt;p class=&quot;mb-8&quot;&gt;
               Ilmanvaihdon tehostaminen korvausilmalaitteella on järkevää, sillä silloin ei ole tarvetta mittavalle ja kalliille ilmanvaihtojärjestelmän remontille. Korvausilmalaitteet voit asentaa itse niihin huoneisiin, joiden ilmanvaihtoa haluat parantaa, ja myös tyylitellä pienikokoisen korvausilmalaitteen ilmeeltään tilaan sopivaksi.
             &lt;/p&gt;
             
             &lt;!-- Heading --&gt;
-            &lt;h3 class=&quot;font-weight-bold&quot;&gt;
+            &lt;h3 class=&quot;&quot;&gt;
               Huono sisäilma on erittäin haitallista ihmisten terveydelle
             &lt;/h3&gt;
 
@@ -125,9 +125,9 @@
               Mikäli hometta tai jotain muuta terveydelle vaarallista ainetta todetaan, tulee ensisijaisesti selvittää päästölähde ja poistaa se. Tämän lisäksi kun ilmanvaihto laitetaan kuntoon, voidaan asua turvallisin mielin.
             &lt;/p&gt;
             &lt;p&gt;
-              Asunnoissa yleisimmin makuuhuoneessa on huono sisäilma. Kahden hengen makuuhuoneessa hiilidioksidipitoisuus nousee helposti arvoon 1600 bec kun suositus on 800 bec. Huonosta sisäilmasta pääsee helpolla eroon asentamalla kaikkiin käytössä oleviin huoneisiin Mobair-korvausilmalaitteet. Mikäli makuuhuoneen ovi pidätetään kiinni, tulee oven alareunassa olla reilu ovirako.
+              Asunnoissa yleisimmin makuuhuoneessa on huono sisäilma. Kahden hengen makuuhuoneessa hiilidioksidipitoisuus nousee helposti arvoon 1600 bec kun suositus on 800 bec. Huonosta sisäilmasta pääsee helpolla eroon asentamalla kaikkiin käytössä oleviin huoneisiin MOBAIR korvausilmalaitteet. Mikäli makuuhuoneen ovi pidätetään kiinni, tulee oven alareunassa olla reilu ovirako.
             &lt;/p&gt;
-            &lt;p class=&quot;mb-6&quot;&gt;
+            &lt;p class=&quot;mb-8&quot;&gt;
               Huonoa sisäilmaa on turha kärsiä, sillä korjauskustannukset ovat hyvin pienet. Huonon sisäilman tunnistaa hajusta ja esim. ikkunoiden huurtumisesta.
             &lt;/p&gt;
             
@@ -194,7 +194,7 @@
                     
                     &lt;!-- Author --&gt;
                     &lt;h6 class=&quot;text-uppercase text-muted mr-2 mb-0&quot;&gt;
-                      Mobair
+                      MOBAIR
                     &lt;/h6&gt;
                     
                     &lt;!-- Date --&gt;
@@ -224,7 +224,7 @@
           &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
 
             &lt;!-- Heading --&gt;
-            &lt;h1 class=&quot;display-4 text-center&quot;&gt;
+            &lt;h1 class=&quot;display-4 text-center hknovar&quot;&gt;
               Asunnon ilmanvaihdon parantaminen
             &lt;/h1&gt;
 
@@ -298,7 +298,7 @@
           &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
 
             &lt;!-- Heading --&gt;
-            &lt;h2 class=&quot;font-weight-bold&quot;&gt;
+            &lt;h2 class=&quot;hknovar&quot;&gt;
               Painovoimainen ilmanvaihto
             &lt;/h2&gt;
 
@@ -334,7 +334,7 @@
           &lt;div class=&quot;col-12 col-md-10 col-lg-9 col-xl-8&quot;&gt;
 
             &lt;!-- Heading --&gt;
-            &lt;h2 class=&quot;font-weight-bold&quot;&gt;
+            &lt;h2 class=&quot;hknovar&quot;&gt;
               Koneellinen ilmanvaihto
             &lt;/h2&gt;
 
