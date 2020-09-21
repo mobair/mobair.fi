@@ -1339,22 +1339,22 @@ pre {
   .table td {
     padding: 1.5rem 2rem;
     vertical-align: top;
-    border-top: 1px solid #F1F4F8; }
+    border-top: 1px solid #9ba5b9; }
   .table thead th {
     vertical-align: bottom;
-    border-bottom: 2px solid #F1F4F8; }
+    border-bottom: 2px solid #9ba5b9; }
   .table tbody + tbody {
-    border-top: 2px solid #F1F4F8; }
+    border-top: 2px solid #9ba5b9; }
 
 .table-sm th,
 .table-sm td {
   padding: 0.3rem; }
 
 .table-bordered {
-  border: 1px solid #F1F4F8; }
+  border: 1px solid #9ba5b9; }
   .table-bordered th,
   .table-bordered td {
-    border: 1px solid #F1F4F8; }
+    border: 1px solid #9ba5b9; }
   .table-bordered thead th,
   .table-bordered thead td {
     border-bottom-width: 2px; }
