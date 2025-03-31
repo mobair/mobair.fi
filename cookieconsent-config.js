@@ -95,15 +95,15 @@ CookieConsent.run({
     },
 
     language: {
-        default: 'en',
+        default: 'fi',
         translations: {
-            en: {
+            fi: {
                 consentModal: {
-                    title: 'We use cookies',
-                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',
-                    acceptAllBtn: 'Accept all',
-                    acceptNecessaryBtn: 'Reject all',
-                    showPreferencesBtn: 'Manage Individual preferences',
+                    title: 'Tämä sivusto käyttää evästeitä',
+                    description: 'Käytämme evästeitä, jotta sivustomme toimii oikein ja voimme personoida sisältöä ja mainoksia, tarjota sosiaalisen median ominaisuuksia ja analysoida tietoliikennettä. Jaamme myös tietoja tavasta, jolla käytät sivustoamme sosiaalisen median, mainonta- ja analytiikkakumppaneidemme kanssa.Lisää tietoa',
+                    acceptAllBtn: 'Hyväksy kaikki evästeet',
+                    acceptNecessaryBtn: 'Hylkää kaikki',
+                    showPreferencesBtn: 'Evästeaseukset',
                     // closeIconLabel: 'Reject all and close modal',
                     footer: `
                         <a href="#path-to-impressum.html" target="_blank">Impressum</a>
@@ -111,10 +111,10 @@ CookieConsent.run({
                     `,
                 },
                 preferencesModal: {
-                    title: 'Manage cookie preferences',
-                    acceptAllBtn: 'Accept all',
-                    acceptNecessaryBtn: 'Reject all',
-                    savePreferencesBtn: 'Accept current selection',
+                    title: 'Evästeasetukset',
+                    acceptAllBtn: 'Hyväksy kaikki',
+                    acceptNecessaryBtn: 'Hylkää kaikki',
+                    savePreferencesBtn: 'Hyväksy nykyinen valinta',
                     closeIconLabel: 'Close modal',
                     serviceCounterLabel: 'Service|Services',
                     sections: [
@@ -130,8 +130,8 @@ CookieConsent.run({
                             linkedCategory: 'necessary'
                         },
                         {
-                            title: 'Performance and Analytics',
-                            description: 'These cookies collect information about how you use our website. All of the data is anonymized and cannot be used to identify you.',
+                            title: 'Tilastot',
+                            description: 'Tilastoevästeet auttavat sivuston omistajia ymmärtämään, miten käyttäjät ovat vuorovaikutuksessa sivustojen kanssa, keräämällä ja raportoimalla tietoja nimettömästi.',
                             linkedCategory: 'analytics',
                             cookieTable: {
                                 caption: 'Cookie table',
@@ -155,13 +155,13 @@ CookieConsent.run({
                             }
                         },
                         {
-                            title: 'Targeting and Advertising',
-                            description: 'These cookies are used to make advertising messages more relevant to you and your interests. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.',
+                            title: 'Markkinointi',
+                            description: 'Markkinointievästeitä käytetään verkkosivustoilla kävijöiden seurantaan. Tarkoituksena on näyttää mainoksia, jotka ovat sopivia ja kiinnostavia yksittäisille käyttäjille, ja siten arvokkaampia julkaisijoille ja kolmansien osapuolten mainostajille.',
                             linkedCategory: 'ads',
                         },
                         {
-                            title: 'More information',
-                            description: 'For any queries in relation to my policy on cookies and your choices, please <a href="#contact-page">contact us</a>'
+                            title: 'Lisää tietoa',
+                            description: 'Jos sinulla on kysyttävää evästekäytännöstämme ja valinnoistasi, <a href="#contact-page">ota yhteyttä</a>'
                         }
                     ]
                 }
