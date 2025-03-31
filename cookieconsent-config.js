@@ -100,8 +100,8 @@ CookieConsent.run({
             fi: {
                 consentModal: {
                     title: 'Tämä sivusto käyttää evästeitä',
-                    description: 'Käytämme evästeitä, jotta sivustomme toimii oikein ja voimme personoida sisältöä ja mainoksia, tarjota sosiaalisen median ominaisuuksia ja analysoida tietoliikennettä. Jaamme myös tietoja tavasta, jolla käytät sivustoamme sosiaalisen median, mainonta- ja analytiikkakumppaneidemme kanssa.Lisää tietoa',
-                    acceptAllBtn: 'Hyväksy kaikki evästeet',
+                    description: 'Käytämme evästeitä, jotta sivustomme toimii oikein ja voimme personoida sisältöä ja mainoksia, tarjota sosiaalisen median ominaisuuksia ja analysoida tietoliikennettä. Jaamme myös tietoja tavasta, jolla käytät sivustoamme sosiaalisen median, mainonta- ja analytiikkakumppaneidemme kanssa.',
+                    acceptAllBtn: 'Salli kaikki',
                     acceptNecessaryBtn: 'Hylkää kaikki',
                     showPreferencesBtn: 'Evästeaseukset',
                     // closeIconLabel: 'Reject all and close modal',
@@ -112,7 +112,7 @@ CookieConsent.run({
                 },
                 preferencesModal: {
                     title: 'Evästeasetukset',
-                    acceptAllBtn: 'Hyväksy kaikki',
+                    acceptAllBtn: 'Salli kaikki',
                     acceptNecessaryBtn: 'Hylkää kaikki',
                     savePreferencesBtn: 'Hyväksy nykyinen valinta',
                     closeIconLabel: 'Close modal',
@@ -120,7 +120,7 @@ CookieConsent.run({
                     sections: [
                         {
                             title: 'Your Privacy Choices',
-                            description: `In this panel you can express some preferences related to the processing of your personal information. You may review and change expressed choices at any time by resurfacing this panel via the provided link. To deny your consent to the specific processing activities described below, switch the toggles to off or use the “Reject all” button and confirm you want to save your choices.`,
+                            description: `Tässä paneelissa voit ilmaista joitakin henkilötietojesi käsittelyyn liittyviä mieltymyksiä. Voit tarkastella ja muuttaa ilmoitettuja valintoja milloin tahansa nostamalla tämän paneelin pinnalle annetun linkin kautta. Jos haluat evätä suostumuksesi tiettyihin alla kuvattuihin käsittelytoimintoihin, kytke valitsimet pois päältä tai käytä "Hylkää kaikki" -painiketta ja vahvista, että haluat tallentaa valintasi.`,
                         },
                         {
                             title: 'Strictly Necessary',
